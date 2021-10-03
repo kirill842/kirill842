@@ -3,6 +3,8 @@
 🚕 I'm currently learning everything related to self-driving systems
 
 📚 I'm currently studying at ETU "LETI" with a degree in CV
+
+18 y.o.
 <!--
 **kirill842/kirill842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
