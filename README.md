@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚕 I'm currently learning everything related to self-driving systems
+🚕 I'm currently learning everything related to Environment Perception in self-driving systems
 
 📚 I'm currently studying at ETU "LETI" with a degree in CV
 
