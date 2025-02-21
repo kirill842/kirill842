@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-👁️ I'm currently learning everything related to Computer Vision
-
 📚 I'm currently studying at ETU "LETI" with a degree in CV
 
 📫 How to reach me: email: kirprogfrog@gmail.com | discord: lkirill#4390
