@@ -2,7 +2,7 @@
 
 📚 I'm currently studying at ETU "LETI" with a degree in CV
 
-📫 How to reach me: email: kirprogfrog@gmail.com | discord: lkirill#4390
+📫 How to reach me: email: kir.lekanov@gmail.com | discord: lkirill#4390
 <!--
 **kirill842/kirill842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
